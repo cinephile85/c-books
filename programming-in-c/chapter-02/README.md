@@ -42,7 +42,7 @@ int main (void)
 }
 ```
 
-> Testing.......1...2..3
+`Testing.......1...2..3`
 
 ## Exercise 2.4
 
@@ -89,4 +89,4 @@ int main (void)
 }
 ```
 
-> The result is 95
+`The result is 95`

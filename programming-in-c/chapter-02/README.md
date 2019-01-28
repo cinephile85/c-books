@@ -11,4 +11,4 @@ These are solutions to exercises from Chapter 2.
 * [Program 2.5](https://github.com/cinephile85/c-programming-books/blob/master/programming-in-c/chapter-02/exercise-01/prog2-5.c)
 * [Program 2.6](https://github.com/cinephile85/c-programming-books/blob/master/programming-in-c/chapter-02/exercise-01/prog2-6.c)
 
-## 2. Write a program that prints the following text.<br/>     1. In C, lowercase letters are significant.<br/>     2. main() is where program execution begins.<br/>     3. Opening and closing braces enclose program statements in a routine.<br/>     4. All program statements must be terminated by a semicolon.
+## 2. Write a program that prints the following text.  1. In C, lowercase letters are significant.<br/>     2. main() is where program execution begins.<br/>     3. Opening and closing braces enclose program statements in a routine.<br/>     4. All program statements must be terminated by a semicolon.

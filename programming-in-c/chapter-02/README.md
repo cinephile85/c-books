@@ -7,11 +7,11 @@ These are solutions to exercises from Chapter 2.
 Type in and run the six programs presented in this chapter. Compare the output produced by each program with the output presented by each program in the text.
 
 * [Program 2.1](exercise-01/prog2-1.c)
-* [Program 2.2](/exercise-01/prog2-2.c)
-* [Program 2.3](/exercise-01/prog2-3.c)
-* [Program 2.4](/exercise-01/prog2-4.c)
-* [Program 2.5](/exercise-01/prog2-5.c)
-* [Program 2.6](/exercise-01/prog2-6.c)
+* [Program 2.2](exercise-01/prog2-2.c)
+* [Program 2.3](exercise-01/prog2-3.c)
+* [Program 2.4](exercise-01/prog2-4.c)
+* [Program 2.5](exercise-01/prog2-5.c)
+* [Program 2.6](exercise-01/prog2-6.c)
 
 ## Exercise 2.2
 
@@ -21,7 +21,7 @@ Write a program that prints the following text.
   3. Opening and closing braces enclose program statements in a routine.  
   4. All program statements must be terminated by a semicolon.
 
-* [Exercise 2.2](/exercise-02/exercise-02.c)
+* [Exercise 2.2](exercise-02/exercise-02.c)
 
 ## Exercise 2.3
 
@@ -50,7 +50,7 @@ Expected output:
 
 Write a program that subtracts the value 15 from 87 and displays the result, together with an appropriate message, at the terminal.
 
-* [Exercise 2.4](/exercise-04/exercise-04.c)
+* [Exercise 2.4](exercise-04/exercise-04.c)
 
 ## Exercise 5
 
@@ -70,7 +70,7 @@ int main (Void)
 }
 ```
 
-* [Exercise 2.5](/exercise-05/exercise-05.c)
+* [Exercise 2.5](exercise-05/exercise-05.c)
 
 ## Exercise 2.6
 

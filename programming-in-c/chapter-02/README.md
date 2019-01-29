@@ -52,7 +52,7 @@ Write a program that subtracts the value 15 from 87 and displays the result, tog
 
 * [Exercise 2.4](exercise-04/exercise-04.c)
 
-## Exercise 5
+## Exercise 2.5
 
 Identify the syntactic errors in the following program. Then type in and run the corrected program to ensure you have correctly identified all the mistakes.
 

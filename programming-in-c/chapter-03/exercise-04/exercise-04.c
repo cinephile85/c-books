@@ -13,7 +13,7 @@ int main(void)
 
     // Convert from Fahrenheit to Celsius and display the result
     float C = (F - 32) / 1.8;
-    printf("%f° C\n", C);
+    printf("27° F = %f° C\n", C);
 
     return 0;
 }

@@ -9,10 +9,11 @@
 
 int main(void)
 {
-    double x = 2.55;
-    float result = (3 * (x * x * x)) - (5 * (x * x)) + 6;
+    double x = 2.55; // Value of x
 
-    printf("%f\n", result);
+    // Evalute the polynomial and display the result
+    float result = (3 * (x * x * x)) - (5 * (x * x)) + 6;
+    printf("(3x³ - 5x² + 6) = %f for x = 2.55\n", result);
 
     return 0;
 }

@@ -1,7 +1,5 @@
 # Chapter 2: Compiling and Running Your First Program
 
-These are solutions to exercises from Chapter 2.
-
 ## Exercise 2.1
 
 Type in and run the six programs presented in this chapter. Compare the output produced by each program with the output presented after each program in the text.

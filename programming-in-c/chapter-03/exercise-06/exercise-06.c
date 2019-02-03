@@ -1,7 +1,7 @@
 // Justin D. Smith
 // 3 February 2019
 // Programming in C, Fourth Edition
-// Exercise 3.
+// Exercise 3.6
 
 // Evaluate the polynomial (3x³ - 5x² + 6) for x = 2.55 and display the result
 

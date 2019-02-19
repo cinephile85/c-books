@@ -12,7 +12,7 @@ int main (void)
 
     triangularNumber = 0;
 
-    for (n = 1; n <= 10; ++n) {
+    for ( n = 1; n <= 10; ++n ) {
         triangularNumber += n;
         printf (" %i          %i\n", n, triangularNumber);
     }

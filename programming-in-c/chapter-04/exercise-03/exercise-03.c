@@ -16,7 +16,8 @@ int main(void)
   printf(" n           Triangular Number\n");
   printf("---          -----------------\n");
 
-  // Calculate and display every fifth triangular number between 5 and 50
+  /* Calculate and display every fifth number between
+     5 and 50 and its correspsonding triangular number */
   for (n = 5; n <= 50; n += 5)
   {
     triangularNumber = (n * (n + 1)) / 2;

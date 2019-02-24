@@ -3,7 +3,7 @@
 // Programming in C, Fourth Edition
 // Exercise 4.11
 
-// A program that calculates the sum of the digits of an integers
+// A program that calculates the sum of the digits of an integer
 
 #include <stdio.h>
 

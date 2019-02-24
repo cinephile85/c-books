@@ -13,7 +13,6 @@ int main (void)
 
         triangularNumber = 0;
 
-        // Begin my code
         n = 1;
         while (n <= number)
         {
@@ -26,6 +25,7 @@ int main (void)
 
         counter++;
     }
+    // End my code
 
     return 0;
 }

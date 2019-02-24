@@ -4,7 +4,10 @@ int main (void)
 {
     int n, number, triangularNumber, counter;
 
-    for ( counter = 1; counter <= 5; ++counter ) {
+    // Begin my code
+    counter = 1;
+    while (counter <= 5)
+    {
         printf ("What triangular number do you want? ");
         scanf ("%i", &number);
 
@@ -17,9 +20,11 @@ int main (void)
           triangularNumber += n;
           ++n;
         }
-        // End my code
+
 
         printf ("Triangular number %i is %i\n\n", number, triangularNumber);
+
+        counter++;
     }
 
     return 0;

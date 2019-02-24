@@ -20,7 +20,6 @@ int main (void)
           ++n;
         }
 
-
         printf ("Triangular number %i is %i\n\n", number, triangularNumber);
 
         counter++;

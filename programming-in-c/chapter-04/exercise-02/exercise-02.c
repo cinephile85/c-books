@@ -10,12 +10,13 @@
 
 int main (void)
 {
-    int n, n_squared;
+    int n;
 
     printf ("TABLE OF VALUES FOR n AND n²\n\n");
     printf (" n           n²\n");
     printf ("---        -----\n");
 
+    // Calculate and display intgers from 1 to 10 and their squares
     for ( n = 1; n <= 10; ++n )
         printf ("%2i          %i\n", n, n * n);
 

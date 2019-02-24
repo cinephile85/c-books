@@ -13,14 +13,14 @@ int main(void)
 
   printf("TABLE OF FACTORIALS OF 1 TO 10\n\n");
   printf(" n           n!\n");
-  printf("---       -------\n");
+  printf("---       --------\n");
 
   // Calculate and print the factorials of 1 to 10
   for (n = 1, factorial = 1; n <= 10; n++)
   {
     factorial *= n;
 
-    printf("%2i        %i\n", n, factorial);
+    printf("%2i         %i\n", n, factorial);
   }
 
   printf("\n");

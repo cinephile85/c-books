@@ -4,3 +4,4 @@ This is code for exercises from the book _Programming in C_, Fourth Edition, by 
 
 * [Chapter 2](chapter-02): Compiling and Running Your First Program
 * [Chapter 3](chapter-03): Variables, Data Types, and Arithmetic Expressions
+* [Chapter 4](chapter-04): Program Looping

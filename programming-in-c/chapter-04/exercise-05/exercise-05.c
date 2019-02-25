@@ -1,8 +1,3 @@
-// Justin D. Smith
-// February 23 2019
-// Programming in C, Fourth Edition
-// Exercise 4.5
-
 #include <stdio.h>
 
 int main(void)
